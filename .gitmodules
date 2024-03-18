@@ -1,0 +1,3 @@
+[submodule "src/NetworkPDE.jl"]
+	path = src/NetworkPDE.jl
+	url = https://github.com/cmhyett/NetworkPDE.jl
