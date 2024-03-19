@@ -1,0 +1,3 @@
+#all values are SI,,,,,,,,,
+temperature,gas_specific_gravity,specific_heat_capacity_ratio,initial_time,final_time,discretization_time_step,courant_number,output_dt,output_dx,save_final_state
+288.706,0.6,1.32,0,257400,1,1,900,1000,1

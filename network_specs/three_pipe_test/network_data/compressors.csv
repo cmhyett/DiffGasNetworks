@@ -1,0 +1,2 @@
+#all units are SI,,,,,,,,
+number,name,c_max,c_min,to_node,from_node,max_flow,min_flow,max_power
