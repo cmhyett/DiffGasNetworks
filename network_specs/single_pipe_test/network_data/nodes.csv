@@ -1,0 +1,4 @@
+#all units are SI,,,,,,,,,
+number,name,lat,lon,height,min_pressure,max_pressure,min_flow,max_flow,type
+1,Start,31.850518,34.664132,1,3000000,100000000,0,1000,1
+2,End,31.807118,34.824611,65,3000000,100000000,-1000,1000,0

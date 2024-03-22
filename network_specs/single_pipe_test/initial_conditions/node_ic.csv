@@ -1,0 +1,4 @@
+# all units are SI,,
+number,initial_nodal_flow,initial_nodal_pressure
+1,0.0,7000000
+2,0.0,7000000

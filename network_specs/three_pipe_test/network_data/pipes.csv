@@ -1,0 +1,5 @@
+#all units are SI,,,,,
+number,start_node,end_node,length,diameter,friction_factor
+1,1,2,16000,0.6,0.01
+2,2,3,16000,0.6,0.01
+3,3,1,16000,0.6,0.01

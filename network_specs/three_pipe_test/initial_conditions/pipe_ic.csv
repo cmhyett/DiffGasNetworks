@@ -1,0 +1,5 @@
+#all units are SI,,,
+number,initial_pipe_flow,initial_pipe_pressure_in,initial_pipe_pressure_out
+1,0.0,7000000,7000000
+2,0.0,7000000,7000000
+3,0.0,7000000,7000000
